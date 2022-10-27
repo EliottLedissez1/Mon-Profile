@@ -1,0 +1,75 @@
+h1{
+	color: #FFFEF0;
+	font-size: 40px;
+	font-family: 'League Spartan', cursive; 
+	margin: 40px;
+	background-color: #002A62;
+	border-radius: 12px;
+}
+
+li, p{
+	color: #0063E8;
+	font-family: 'Codec Cold Bold', sans-serif;
+	list-style: none;
+
+}
+ul{
+	padding: 0px;
+}
+
+body{
+	background-color: #92C0FF;
+	font-family: Codec Cold Bold;
+}
+
+h2{
+	font-family: Codec Cold Bold;
+	text-decoration: none;
+	color: #002A62;
+	font-size: 25px;
+}
+
+a{	
+	color: darkblue;
+	font-family: 'Codec Cold Bold', sans-serif;
+	font-size: 20px;
+	text-decoration: none;
+
+}
+
+img{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+}
+
+/*custom design*/
+
+/*class*/
+
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+
+.card-white{width: 500px;
+	background-color: white;
+	border-radius: 6px;
+	box-shadow: 10px 20px 30px rgba(30, 30, 30, 0.3);
+	margin: 30px;
+	padding: 16px;
+	text-align: center;
+}
+
+.btn-blue{
+	background-color: #1363DF;
+	color: whitesmoke;
+	padding: 10px;
+	border-radius: 30px;
+}
+
+.btn-blue:hover {
+	background-color: white;
+	transition: O,2s;
+	color: #1363DF;
+}
